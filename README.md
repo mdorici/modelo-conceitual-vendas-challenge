@@ -10,9 +10,8 @@ Deseja-se também registrar as vendas realizadas pelos vendedores.
 
 ### Diagrama de classes
 
-![modelo-conceitual-vendas-classe](https://user-images.githubusercontent.com/100785891/213074293-6c25032e-b468-41de-b4e5-d5ee35e54cb1.png)
-
+![modelo-conceitual-vendas-classe](https://user-images.githubusercontent.com/100785891/213074385-9d0ed730-7fbf-4084-bebc-5bc2875c63fe.png)
 
 ### Instância mínima
 
-![modelo-conceitual-vendas-objetos](https://user-images.githubusercontent.com/100785891/212748188-5c9ae337-2275-40f7-bfac-93ca6146ac4c.png)
+![modelo-conceitual-vendas-objetos](https://user-images.githubusercontent.com/100785891/213074504-b9254155-2ad6-43ca-b501-d41a1f94df4e.png)
